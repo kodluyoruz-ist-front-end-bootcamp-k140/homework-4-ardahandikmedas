@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -47,32 +46,3 @@ function About() {
 function Contact() {
   return <h2>Contact</h2>;
 }
-
-
-=======
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;
->>>>>>> 3b2e9ec3e820ce55ab0dddfd218fe3fb6a994d5c
